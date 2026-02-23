@@ -13,30 +13,49 @@ I enjoy building simple but functional systems that solve practical problems and
 - 🌱 Currently improving my knowledge in **C#, SQL, Python, and System Development**
 - 🔍 Actively looking for hands-on industry experience
 - 🛠️ Passionate about learning by building real applications
-
+  
 ---
 
-## 🧰 Skills & Technologies
+<h2>🧰 Skills & Technologies</h2>
 
-### 💻 Programming
-- C#
-- Java (Basic)
-- SQL
-- Python
+<table>
+<tr>
+<td valign="top" width="25%">
 
-### 🌐 Web Technologies
-- HTML
-- CSS
-- Basic JavaScript
+💻 Programming<br>
+-C#<br>
+-Java<br>
+-SQL
 
-### 🗄️ Database
-- SQL Server
-- MySQL
+</td>
 
-### ⚙️ Tools
-- Visual Studio
-- VS Code
-- Android Studio
+<td valign="top" width="25%">
+
+🌐 Web<br>
+-HTML<br>
+-CSS<br>
+-JavaScript
+
+</td>
+
+<td valign="top" width="30%">
+
+🗄️ Database<br>
+-SQL Server<br>
+-MySQL
+
+</td>
+
+<td valign="top" width="25%">
+
+⚙️ Tools<br>
+-Visual Studio<br>
+-Android Studio<br>
+-VS Code
+
+</td>
+</tr>
+</table>
 ---
 
 ## 📂 Projects
