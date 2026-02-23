@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shane!
+# 👋Shane Trinidad
 
 🎓 4th-Year Information Technology Student   
 📍 Philippines  
